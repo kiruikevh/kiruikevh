@@ -1,5 +1,5 @@
 # 💫 About Me:
-Csharp dot net , JavaScript,next js , typescript 
+Hi, I'm Kevin 
 
 
 # 💻 Tech Stack:
